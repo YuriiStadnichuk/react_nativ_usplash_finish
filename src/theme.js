@@ -1,0 +1,6 @@
+export const THEME = {
+  MAIN_COLOR: "#192338",
+  SECOND_COLOR: "#545C72",
+  DANGER_COLOR: "#d81b60",
+  PADDING_VERTICAL: 10
+};
